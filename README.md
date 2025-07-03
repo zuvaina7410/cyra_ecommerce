@@ -1,28 +1,18 @@
-# cyra_ecommerce_project
-
-A new Flutter project.
-![Screenshot_2023-11-17-16-49-01-10_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachme![Screenshot_2023-11-18-16-51-46-97_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/0aa45![Scree![Screenshot_2023-11-17-16-49-01-10_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/9d54413c-b65f-483b-a038-19518885ebbf)
-nshot_2023-11-18-16-51-46-97_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/786765bb-011f-457b-887d-70636ccf33a5)
-419-7663-4d83-9002-476e3b732ce0)
-nts/assets/da1d631d-0d6c-4f36-91bc-c04742fa6990)
-![Screenshot_2023-11-18-16-54-06-46_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/b4f9b7c7-1b88-4d8c-b2ca-4dc91d6e5270)
-![Screenshot_2023-11-18-16-55-25-26_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/5408068a-19ad-4f78-b9a2-2a211f5db710)
-
-![Screenshot_2023-11-18-16-52-19-60_!![Screenshot_2023-11-18-16-53-45-15_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/879d6fd6-9855-4262-b5f2-5ec9da19771c)
-[Screenshot_2023-11-18-16-53-08-63_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/3570783c-d412-44c4-ac9f-8ca237d2dbc8)
-6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/c9146d9b-463e-447f-9a74-04d3486b2086)
-
-## Getting Started![Screenshot_2023-11-18-16-49-31-02_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/8b435355-e57c-4a48-ad43-6c2a77a6673f)
-
-![Screenshot_2023-11-18-16-49-02-26_6ab935a46fbca295fdc1e1581a3a95b3](https://github.com/user-attachments/assets/e827cb9b-ab58-4790-80ab-8aa6b6980b03)
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2025-06-25-19-01-02-11](https://github.com/user-attachments/assets/a3055b69-2697-41b8-bdbd-121e075f8cde)
+![Screenshot_2025-06-25-18-50-11-88](https://github.com/user-attachments/assets/06b90228-94c9-4a0a-a620-ecc9e8627a52)
+![Screenshot_2025-06-25-18-50-06-98](https://github.com/user-attachments/assets/6b78825a-62d8-48e9-80f6-86962653e075)
+![Screenshot_2025-06-25-18-49-58-40](https://github.com/user-attachments/assets/59df19fc-1504-434a-bceb-f5876bbd542b)
+![Screenshot_2025-06-25-18-49-53-57](https://github.com/user-attachments/assets/8dd763a8-8324-4400-a165-00ab6fb18485)
+![Screenshot_2025-06-25-18-49-34-71](https://github.com/user-attachments/assets/3ec7f485-291e-4d28-921c-c21b64236087)
+![Screenshot_2025-06-25-18-49-23-45](https://github.com/user-attachments/assets/2358384a-88ab-4005-a857-7034e9dd0c20)
+![Screenshot_2025-06-25-18-48-52-31](https://github.com/user-attachments/assets/7c5e2521-3835-464e-9547-2895eeafd1f6)
+![Screenshot_2025-06-25-18-48-12-32](https://github.com/user-attachments/assets/ba54490f-20ec-4a6c-8190-22601e0598ed)
+![Screenshot_2025-06-25-18-47-36-21](https://github.com/user-attachments/assets/d90b688b-dc0b-445b-8134-f4e7daef37ab)
+![Screenshot_2025-06-25-18-45-25-35](https://github.com/user-attachments/assets/8d3bcccb-310a-4886-9c86-984877cc7939)
+![Screenshot_2025-06-25-18-45-04-47](https://github.com/user-attachments/assets/fa62b340-8daf-4c78-81d8-a25c98e81558)
+![Screenshot_2025-06-25-18-44-59-49](https://github.com/user-attachments/assets/64f86bf5-06c6-492d-b899-c8b64f780695)
+![Screenshot_2025-06-25-18-44-54-69](https://github.com/user-attachments/assets/9fd657cf-59ee-43fa-b3b6-27f220b19e1a)
+![Screenshot_2025-06-25-18-41-29-49](https://github.com/user-attachments/assets/cdc9d686-898f-414e-aa16-b40e17c099c1)
+![Screenshot_2025-06-25-18-41-09-07](https://github.com/user-attachments/assets/53b068a2-7ec8-49cf-b2ac-4e42c9778447)
+![Screenshot_2025-06-25-18-40-50-78](https://github.com/user-attachments/assets/87721308-3a09-4141-9397-a127c0fe6b61)
+![Screenshot_2025-06-25-18-32-06-08](https://github.com/user-attachments/assets/48a1363d-5231-4bfa-b74c-ffe62ea33fd2)
